@@ -1,0 +1,2 @@
+total_rows,unique_runs,sensitivity_levels,confidence_levels,minimum_repetitions_per_cell,maximum_repetitions_per_cell,minimum_tick,maximum_tick,missing_values
+270,270,3,3,30,30,300,300,0
